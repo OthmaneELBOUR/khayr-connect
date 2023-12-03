@@ -16,7 +16,7 @@ function AboutUs() {
             </div>
             <div className='w-40 ml-14 mt-14 mb-20'>
                 <NavLink to='/login'>
-                    <div className="text-base not-italic font-normal text-white border-black rounded-full border-2   bg-blue-800 border-blue-800 px-6">
+                    <div className="text-base not-italic font-normal text-white border-black rounded-full border-2 shadow-xl  bg-blue-800 border-blue-800 px-6 hover:bg-blue-700 hover: border-blue-700 hover:shadow-blue-700">
                         Nous Rejoindre
                     </div>
                 </NavLink>
