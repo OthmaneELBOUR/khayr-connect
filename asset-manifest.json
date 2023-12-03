@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khayr-connect/static/css/main.e0ea43c4.css",
+    "main.js": "/khayr-connect/static/js/main.663397c2.js",
+    "static/js/787.d4aba7ab.chunk.js": "/khayr-connect/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/khayr-connect/index.html",
+    "main.e0ea43c4.css.map": "/khayr-connect/static/css/main.e0ea43c4.css.map",
+    "main.663397c2.js.map": "/khayr-connect/static/js/main.663397c2.js.map",
+    "787.d4aba7ab.chunk.js.map": "/khayr-connect/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ea43c4.css",
+    "static/js/main.663397c2.js"
+  ]
+}
